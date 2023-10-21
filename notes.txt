@@ -1,0 +1,4 @@
+Notes:
+
+- Create an about me, and contact page as well
+- Edit css for aligning project images
