@@ -1,5 +1,5 @@
 Notes:
 
 - Create an about me, and contact page as well, with at form
-- Edit css for aligning project images
+- Edit css for aligning project images (Use bootstrap cards!!)
 - Make site fully responsive
