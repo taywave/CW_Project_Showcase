@@ -1,5 +1,5 @@
 body {
-    background-image: url(img/wood.jpg);
+    background-image: url(img/white-bricks.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     font-family: 'Ubuntu Mono', monospace;
@@ -12,8 +12,8 @@ body {
   }
   
   #title {
-    font-size: 50px;  
-    margin-top: 5px;
+    font-size: 30px;  
+    margin-top: 10px;
     text-shadow: 3px 5px #ffff0075;
   }
   
@@ -84,16 +84,28 @@ body {
   .text {
     font-size: 30px;
     padding: 10px;
+    line-height: 40px;
   }
   
   .stats {
-    width: 50%;
-    margin-top: 100px;
-    margin-left: 25%;
+    width: 20%;
+    margin-top: 40px;
+    margin-left: 39%;
     border: 3px double yellow;
     text-align: center;
     background-color: #cccccc;
   }
+
+  .stat-list {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: flex-start;
+    font-size: 16px;
+  }
   
-  
+  .contact-form {
+
+}  
   
