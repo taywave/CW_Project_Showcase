@@ -1,5 +1,11 @@
 Notes:
 
 - Create an about me, and contact page as well, with at form
-- Edit css for aligning project images (Use bootstrap cards!!)
+DONE Edit css for aligning project images (Use bootstrap cards!!)
 - Make site fully responsive
+
+-"Back to level _" button on H__.html pages??
+
+
+*** bootstrap carousel for showing projects, with button to view all projects? ***
+- Better navbar??
