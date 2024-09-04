@@ -9,3 +9,7 @@ DONE Edit css for aligning project images (Use bootstrap cards!!)
 
 *** bootstrap carousel for showing projects, with button to view all projects? ***
 - Better navbar??
+
+- More stats and information
+
+- Better navbar?
